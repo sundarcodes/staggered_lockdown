@@ -70,7 +70,7 @@ My trigger for this idea came when my father was discussing about how a small vi
 
 Few other extensions:
 
-1. The color codes could be more than 5 depending on what proportion of people we want to come out in the streets. If it is made 10, then a person could come out only once in 10 days which would further curtail the spread. Allocation of colour codes could also take into account members from a same household th
+1. The color codes could be more than 5 depending on what proportion of people we want to come out in the streets. If it is made 10, then a person could come out only once in 10 days which would further curtail the spread. Allocation of colour codes could also take into account members from a same household which would mean we could make use of ration cards assigned to a household.
 2. The same color code could be adoped to the real heroes of the hours - the doctors, nurses, government officials as they could also work on a rotation basis and take good amount of rests a well
 3. We could also have shops selling essential services to enfore the colour code check and not provide goods to people not following the color code.
 4. The distribution/assignment of colour codes could also vary across different regions of the country based on severity of the spread. If the COVID-19 rates are decreasing, we could still have this color code scheme but now we could have distribution with lesser set of colour codes. Instead of 5, we could have 3 color codes and reassign the new set to the people. This would mean more people coming out when we see no resurgent/spike of cases.
