@@ -60,7 +60,7 @@
 
 ### Parting Comments
 
-These are initial flow of thoughts with a pure objective to be part of safe India. I sincerely request Indian government to consider this idea to enforce a longer partial lock down and at the same manage show effectively to align with our Safe India mantra.
+These are initial flow of thoughts with a pure objective to be part of safe India. I sincerely request Indian government to consider this idea to enforce a longer partial lock down and at the same time manage show effectively to align with our Safe India mantra.
 I am sure this idea can be effectively expanded, conceived and implemented when best of the Indian Government Administrative minds take in in their hands.
 
 My trigger for this idea came when my father was discussing about how a small village in South Tamil Nadu (ariyalur) had enforced a similar governance of restricting people movement based on days of the week and it has zero cases of Corona (**Touchwood !!**).
