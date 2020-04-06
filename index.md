@@ -60,7 +60,10 @@
 
 ### Parting Comments
 
-The objective behind this was just to provide a suggestion/idea/approach to the Indian government on how to enforce a longer partial lock down and at the same running the show. There could be loopholes/flaws in the idea but that is something upto the authorities to fix/address them in case this idea is picked up or some portion of it. The inspiration for this came when my father was discussing about how a small village in South Tamil Nadu (ariyalur) had enforced a similar idea of restricting people movement based on days of the week and it has zero cases of Corona (**Touchwood !!**).
+These are initial flow of thoughts with a pure objective to be part of safe India. I sincerely request Indian government to consider this idea to enforce a longer partial lock down and at the same manage show effectively to align with our Safe India mantra.
+I am sure this idea can be effectively expanded, conceived and implemented when best of the Indian Government Administrative minds take in in their hands.
+
+My trigger for this idea came when my father was discussing about how a small village in South Tamil Nadu (ariyalur) had enforced a similar governance of restricting people movement based on days of the week and it has zero cases of Corona (**Touchwood !!**).
 
 ---
 
