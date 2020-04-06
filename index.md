@@ -53,7 +53,7 @@ To be adopted once we see a drop in the COVID-19 cases.
 
    > A: In this case you could activiate your emergency lifeline allowed to be used once per aadhaar and go out. You have to activate this through your mAadhaar app. If you activate this, you could provide this as a proof to the police/patrolling officer. In case you do not have maadhaar app and in case you are questioned by the police/patrolling officer, you could have officer activate this on your behalf, thereby giving you the license to come out. Remember you could use it one and only once, so use it only when the real need is.
 
-4) Saturday and Sunday - complete lockdown
+4. Saturday and Sunday - complete lockdown
 
    Enforce complete lockdown on Saturdays and Sundays. This would mean rest for people working for providing the essentials - groceries stores etc.
 
@@ -73,7 +73,7 @@ Few other extensions:
 1. The color codes could be more than 5 depending on what proportion of people we want to come out in the streets. If it is made 10, then a person could come out only once in 10 days which would further curtail the spread. Allocation of colour codes could also take into account members from a same household th
 2. The same color code could be adoped to the real heroes of the hours - the doctors, nurses, government officials as they could also work on a rotation basis and take good amount of rests a well
 3. We could also have shops selling essential services to enfore the colour code check and not provide goods to people not following the color code.
-4. The distribution/assignment of colour codes could also vary across different regions of the country based on severity of the spread.
+4. The distribution/assignment of colour codes could also vary across different regions of the country based on severity of the spread. If the COVID-19 rates are decreasing, we could still have this color code scheme but now we could have distribution with lesser set of colour codes. Instead of 5, we could have 3 color codes and reassign the new set to the people. This would mean more people coming out when we see no resurgent/spike of cases.
 
 **DISCLAIMER !!**
 
