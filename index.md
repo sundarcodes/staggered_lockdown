@@ -1,6 +1,8 @@
-# How can we have a staggered lockdown in India ?
+# How can we reopen India after COVID-19 cases drop or in other words how can we adopt a staggered lock down to prevent another surge ?
 
 ### TL;DR (The Summary)
+
+To be adopted once we see a drop in the COVID-19 cases.
 
 1. Choose 5 color code representing 5 days of the week from Monday to Friday.
 2. Uniformly allocate a color code to each person in India (through aadhar number preferrably).
@@ -53,22 +55,26 @@
 
 4) Saturday and Sunday - complete lockdown
 
-
-    Enforce complete lockdown on Saturdays and Sundays. A rest for the essenta
+   Enforce complete lockdown on Saturdays and Sundays. This would mean rest for people working for providing the essentials - groceries stores etc.
 
 ---
 
 ### Parting Comments
 
-These are initial flow of thoughts with a pure objective to be part of safe India. I sincerely request Indian government to consider this idea to enforce a longer partial lock down and at the same time manage show effectively to align with our Safe India mantra.
-I am sure this idea can be effectively expanded, conceived and implemented when best of the Indian Government Administrative minds take in in their hands.
+These are initial flow of thoughts with a pure objective to be part of safe India. I hope the Indian government would get some cues from this idea to enforce a longer partial lock down and at the same time, manage the show effectively to align with the Safe India mantra.
+I am sure this idea can be effectively expanded, conceived and implemented when best of the Indian Government Administrative minds take it in their hands.
 
-My trigger for this idea came when my father was discussing about how a small village in South Tamil Nadu (ariyalur) had enforced a similar governance of restricting people movement based on days of the week and it has zero cases of Corona (**Touchwood !!**).
+My trigger for this idea came when my father was discussing about how a small village in South Tamil Nadu (ariyalur) had enforced a similar governance of restricting people movement and it has zero cases of Corona (**Touchwood !!**).
 
 ---
 
-Few other notes:
+Few other extensions:
 
-1. The color codes could be more than 5 depending on what proportion of people we want to come out in the streets. If it is made 10, then a person could come out only once in 10 days which would further curtail the spread.
+1. The color codes could be more than 5 depending on what proportion of people we want to come out in the streets. If it is made 10, then a person could come out only once in 10 days which would further curtail the spread. Allocation of colour codes could also take into account members from a same household th
 2. The same color code could be adoped to the real heroes of the hours - the doctors, nurses, government officials as they could also work on a rotation basis and take good amount of rests a well
-3. We could also have shops selling essential services to enfore the colour code check and not provide goods to people not following the color code
+3. We could also have shops selling essential services to enfore the colour code check and not provide goods to people not following the color code.
+4. The distribution/assignment of colour codes could also vary across different regions of the country based on severity of the spread.
+
+**DISCLAIMER !!**
+
+This is just a thought that I wanted to share across with an objective to curtail people movement to avoid the COVID-19 virus spread and move towards a safer India. Its purely upto to the government and the concerened authorities to take this up, evaluate the feasibility, fine tune and adopt if they feel this could work.
