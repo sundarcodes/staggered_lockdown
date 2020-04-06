@@ -25,37 +25,34 @@
 
    We could follow devise a simple method to assign a color code to each person in India having a valid identity proof. Aadhaar is a good choice here as most of the Indians have an Aadhaar number and its all digital.
 
-   `Q: How could we intimate people of their assigned colour code ?`
+   Q: How could we intimate people of their assigned colour code ?
 
-   `A: We could have the mAadhaar app enhanced to add this feature and have all Indians download this app. The app should show their colour code. In addition,we could also send an SMS with the color code`
+   > A: We could have the mAadhaar app enhanced to add this feature and have all Indians download this app. The app should show their colour code. In addition,we could also send an SMS with the color code
 
-   `Q: What if people are not able to download the app or receive the SMS ?`
+   Q: What if people are not able to download the app or receive the SMS ?
 
-   `A: We could have a page added in the uiaadhar website for people to check their color code with their aadhar number. We could in the worst case have people get their color codes through a physical visit`
+   > A: We could have a page added in the uiaadhar website for people to check their color code with their aadhar number. We could in the worst case have people get their color codes through a physical visit
 
 3.  Allow only people to come out having the color code corresponding to day of the week.
 
-        Once people know their color code, they would be allowed to come out only on the day matching their color code. Let's take an example. If I have been assigned the color  <span style="color:#e67e22"> Orange </span>
+    Once people know their color code, they would be allowed to come out only on the day matching their color code. Let's take an example. If I have been assigned the color <span style="color:#e67e22"> Orange </span>, I could come out only on Wednesdays for getting any of the work done. I am not supposed to go out on any other days.
 
-    , I could come out only on Wednesdays for getting any of the work done. I am not supposed to go out on any other days.
+    Q: How can we enforce this ?
 
-        `Q: How can we enforce this ?`
+    > Make it mandate for people to carry their aadhaar cards or mAadhaar app through which they can provide the necessary proof. Punish people coming out without a valid proof.
 
-        `A: Make it mandate for people to carry their aadhaar cards or mAadhaar app through which they can provide the necessary proof. Punish people coming out without a valid proof.`
+    Q: What if I don't have maadhaar app in my mobile, but I know my color code and I can go out ?`
 
-        `Q: What if I don't have maadhaar app in my mobile, but I know my color code and I can go out ?`
+    > Please ensure you carry your physical aaddhar card. We can have the police/patrolling officers verify given your aadhaar number through facility provided using the uiaadhaar website.`
 
-        `A: Please ensure you carry your physical aaddhar card. We can have the police/patrolling officers verify given your aadhaar number through facility provided using the uiaadhaar website.`
+    Q: What if I have an emergency situation (accident/pregnancy) and my color code does not allow me to go out ?
 
-        `Q: What if I have an emergency situation (accident/pregnancy) and my color code does not allow me to go out ?`
-
-        `A: In this case you could activiate your emergency lifeline allowed to be used once per aadhaar and go out. You have to activate this through your mAadhaar app. If you activate this, you could provide this as a proof to the police/patrolling officer. In case you do not have maadhaar app and in case you are questioned by the police/patrolling officer, you could have officer activate this on your behalf, thereby giving you the license to come out. Remember you could use it one and only once, so use it only when the real need is.`
+    > A: In this case you could activiate your emergency lifeline allowed to be used once per aadhaar and go out. You have to activate this through your mAadhaar app. If you activate this, you could provide this as a proof to the police/patrolling officer. In case you do not have maadhaar app and in case you are questioned by the police/patrolling officer, you could have officer activate this on your behalf, thereby giving you the license to come out. Remember you could use it one and only once, so use it only when the real need is.
 
 4) Saturday and Sunday - complete lockdown
 
 
     Enforce complete lockdown on Saturdays and Sundays.
-
 
 ### Parting Comments
 
